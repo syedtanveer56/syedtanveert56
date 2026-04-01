@@ -13,6 +13,7 @@ I enjoy working on small projects, improving my coding skills, and understanding
 🔹 Open to: Learning opportunities, collaboration, and guidance
 
 Thanks for visiting my profile! 😊
+<br>
 Hi there 👋I'm Syed Tanveer
 <br>
 Welcome to my GitHub profile!
