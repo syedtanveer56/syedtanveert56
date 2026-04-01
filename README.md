@@ -1,8 +1,9 @@
 # syedtanveert56
 tanveer is a greate gentlemen
+<br>
 my name is tanveer this is my personal file 
 Hi there 👋
-
+<br>
 I'm a passionate beginner in the world of development, currently learning and exploring new technologies step by step. As a fresher, I'm building my foundation in programming, version control (Git & GitHub), and problem-solving.
 
 I enjoy working on small projects, improving my coding skills, and understanding how real-world applications are built. I'm always eager to learn, grow, and collaborate with others in the tech community.
@@ -12,8 +13,8 @@ I enjoy working on small projects, improving my coding skills, and understanding
 🔹 Open to: Learning opportunities, collaboration, and guidance
 
 Thanks for visiting my profile! 😊
-Hi there 👋 I'm Syed Tanveer
-
+Hi there 👋I'm Syed Tanveer
+<br>
 Welcome to my GitHub profile!
 
 I am a passionate beginner in the world of software development. Currently, I am learning and exploring new technologies step by step. As a fresher, I am building my foundation in programming, version control (Git & GitHub), and problem-solving.
